@@ -18,3 +18,4 @@ Schritte zur Verortung der Scanner im Gelände:
        
     8. Erstellung der Datenbank über QGIS Database tool -> Package Layers tool -> select all files as a geopackage
        Die Datenbank Datei befindet sich im Ordner geopackage/vector_geopackage.gpkg
+       Die Raster Dateien sind auch im Ordner geopackage
